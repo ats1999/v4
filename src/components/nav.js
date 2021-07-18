@@ -8,7 +8,6 @@ import { loaderDelay } from '@utils';
 import { useScrollDirection, usePrefersReducedMotion } from '@hooks';
 import { Menu } from '@components';
 import { IconLogo } from '@components/icons';
-
 const StyledHeader = styled.header`
   ${({ theme }) => theme.mixins.flexBetween};
   position: fixed;
@@ -173,7 +172,11 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+    <a
+      className="resume-button"
+      href="https://docs.google.com/document/d/1x8k3qOg7My5Ny9UcGmcfhMnUSOkg-6LYEGmT07U8nhc/edit?usp=sharing"
+      target="_blank"
+      rel="noopener noreferrer">
       Resume
     </a>
   );
