@@ -5,7 +5,7 @@ date: 2019-12-07
 draft: true
 slug: /pensieve/markdown-playground
 github: 'https://github.com/ats1999/Algorithm'
-tech:
+tags:
   - Algo
   - DS
   - C++

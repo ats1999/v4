@@ -9,6 +9,7 @@ tech:
   - supercluster
   - Mapbox
 # showInProjects: true
+rank: '2'
 ---
 
 Implemention of cluster in react-map-gl on random data points. Developer can use it as a reference repo and implement the clustering in his/her application quickly. It has feature of zoom on click, move to a single feature from cluster, etc.

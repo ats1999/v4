@@ -5,6 +5,7 @@ company: 'Vyorius'
 location: 'India,Delhi'
 range: 'Sep 2020 - Apr 2021'
 url: 'https://vyorius.com/'
+rank: '1'
 ---
 
 - Created scalable backend services using Nodejs and ExpressJs and used MongoDB and

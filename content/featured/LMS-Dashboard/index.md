@@ -8,6 +8,7 @@ tech:
   - React.js
   - Next.js
 # showInProjects: true
+rank: '3'
 ---
 
 This is just UI part of a LMS dashboard created using Nextjs and ReactJs.
