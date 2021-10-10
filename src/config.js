@@ -14,6 +14,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/rahul-kumar-36b05a189/',
     },
+    {
+      name: 'website',
+      url: 'https://dsabyte.com',
+    },
   ],
 
   navLinks: [

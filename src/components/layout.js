@@ -72,7 +72,12 @@ const Layout = ({ children, location }) => {
               <Social isHome={isHome} />
               <Email isHome={isHome} />
 
-              <div id="content">
+              <div
+                id="content"
+                style={{
+                  marginTop: '70px',
+                }}
+              >
                 {children}
                 <Footer />
               </div>

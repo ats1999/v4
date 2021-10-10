@@ -246,7 +246,8 @@ const Menu = () => {
           onClick={toggleMenu}
           menuOpen={menuOpen}
           ref={buttonRef}
-          aria-label="Menu">
+          aria-label="Menu"
+        >
           <div className="ham-box">
             <div className="ham-box-inner" />
           </div>
@@ -267,9 +268,11 @@ const Menu = () => {
             )}
 
             <a
-              href="https://docs.google.com/document/d/1x8k3qOg7My5Ny9UcGmcfhMnUSOkg-6LYEGmT07U8nhc/edit?usp=sharing"
+              href="https://docs.google.com/document/d/1sqQpS0S44PzW9tH-3tXI_S27I0sdun-PrYCWuDdoDKE/edit?usp=sharing"
               target="_blank"
-              className="resume-link" rel="noreferrer">
+              className="resume-link"
+              rel="noreferrer"
+            >
               Resume
             </a>
           </nav>
