@@ -173,7 +173,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="https://avatars.githubusercontent.com/u/54087826?v=4"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
