@@ -64,10 +64,10 @@ const Hero = () => {
   const four = (
     <p>
       I'm a software engineer specializing in building (and occasionally designing) exceptional
-      digital experiences. Currently, I'm focused on building accessible, human-centered and
-      unmanned drone delivery system products at{' '}
-      <a href="https://vyorius.com/" target="_blank" rel="noreferrer">
-        Vyorius
+      digital experiences. Currently, I'm focused on building accessible, publisher-centered
+      programmatic advertising products at{' '}
+      <a href="https://adpushup.com/" target="_blank" rel="noreferrer">
+        AdPushup
       </a>
       .
     </p>

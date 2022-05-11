@@ -1,21 +1,13 @@
 ---
 date: '2015-12-21'
-title: 'Software Developer'
+title: 'Full Stack Developer'
 company: 'Vyorius'
 location: 'India,Delhi'
-range: 'Sep 2020 - Apr 2021'
+range: 'Sep 2020 - Nov 2021'
 url: 'https://vyorius.com/'
-rank: '1'
+rank: '2'
 ---
 
-- Created scalable backend services using Nodejs and ExpressJs and used MongoDB and
-  AWS DynamoDB as persistence storage.
-
-- Reduced codebase by 20% using modularity and identifying codes and components that can
-  be reused across the application(React + Node).
-
-- Used socket.io to send drone coordinates in real-time.
-
-- Created a geospatial analysis system using turf, Nodejs and React.
-
-- Optimized servers and reduced HTTP requests by storing data at client side.
+- Built unmanned real-time drone delivery and maintenance system, RTSP-WebRTC media streaming gateway and geospatial analysis software system.
+- Created scalable backend services using Nodejs and ExpressJs and used MongoDB and AWS DynamoDB for data layer.
+- Built real-time geospital analysis system.

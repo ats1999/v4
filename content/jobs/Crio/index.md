@@ -3,10 +3,11 @@ date: '2015-12-21'
 title: 'Externship'
 company: 'Crio'
 location: 'India,Delhi'
-range: 'July - Aug 2020'
+range: 'Nov - Dec 2020'
 url: 'https://crio.do'
-rank: '2'
+rank: '3'
 ---
 
-- Developed few projects based on React,Node
-- Deployed them on linux server on AWS platform
+- Developing MERN stack projects
+- Deployed them on cloud - AWS platform
+- Fixing bugs in the existing software

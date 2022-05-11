@@ -129,17 +129,12 @@ const About = () => {
   const skills = [
     'Node.js',
     'Socket.io',
-    'React.js',
     'turf',
-    'Redux',
-    'Material-UI',
-    'Next.js',
     'deck.gl',
-    'mapbox',
-    'MongoDB',
-    'DynamoDB',
-    'Git',
     'AWS',
+    'MongoDB',
+    'CouchDB',
+    'Puppeteer',
   ];
 
   return (
@@ -151,14 +146,15 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Rahul and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2015 when I decided to explore about how
-              internet works - turns out hacking togather a custom server thought me a lot about
+              interest in software engineering started back in 2019 when I decided to explore about
+              how internet works - turns out hacking togather a custom server taught me a lot about
               software development.
             </p>
 
             <p>
-              . My main focus these days is building sclable, inclusive software and fast
-              experiences at <a href="https://vyorius.com/">Vyorius</a> for a variety of needs.
+              My main focus these days is building sclable, maintenable, reliable, inclusive
+              software and fast experiences at <a href="https://adpushup.com/">AdPushup</a> for a
+              variety of needs.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

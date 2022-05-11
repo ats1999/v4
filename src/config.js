@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/rahul-kumar-36b05a189/',
+      url: 'https://www.linkedin.com/in/rahul-kumar-%F0%9F%87%AE%F0%9F%87%B3-36b05a189/',
     },
     {
       name: 'website',
